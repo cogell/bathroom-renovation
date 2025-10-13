@@ -1,0 +1,9 @@
+title: Bathroom Renovation Project
+description: DIY bathroom flooring replacement with electric heated floors
+theme: jekyll-theme-minimal
+
+# Exclude files from processing
+exclude:
+  - CLAUDE.md
+  - README.md
+  - .claude/
