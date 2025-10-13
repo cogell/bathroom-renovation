@@ -2,14 +2,22 @@
 
 ## Project Overview
 
-This project documents the complete renovation of a bathroom, focusing on replacing existing laminate flooring with an electric heated floor system and tile installation.
+This project documents a complete DIY bathroom renovation in an 1870 house, focusing on replacing existing laminate flooring with an electric heated floor system and tile installation. All work will be performed by the homeowner, with comprehensive research and planning to ensure a successful outcome.
+
+## Project Specifics
+
+- **Location**: Small bathroom above basement (~36 sq ft total, ~27 sq ft heated area)
+- **House Age**: 1870 (with previous renovations)
+- **Approach**: 100% DIY including subfloor assessment/repair
+- **Scope**: Remove laminate, repair/replace subfloor, install electric heating, install tile
 
 ## Project Goals
 
-- Remove existing laminate flooring
-- Install electric floor heating system
+- Assess and repair/replace subfloor as needed
+- Install basement insulation from below (rockwool)
+- Install electric floor heating system (researching options)
 - Install tile flooring over heated system
-- Document the entire process for future reference
+- Document the entire process for future DIY reference
 
 ## Documentation Sections
 
@@ -27,7 +35,17 @@ Step-by-step instructions organized by project phase with milestones and checkpo
 
 ## Project Status
 
-**Current Phase**: Planning & Research
+**Current Phase**: Planning & Research - Exploring Options
+
+### Recent Research Completed
+- Electric floor heating systems comparison (no decisions made yet)
+- Subfloor preparation requirements and specifications
+- Evaluating heating system options vs. project constraints
+
+### Next Steps
+- Basement insulation research (rockwool installation)
+- Subfloor condition assessment (requires removing existing flooring)
+- Final heating system selection after completing research
 
 ## Quick Links
 
