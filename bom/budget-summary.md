@@ -1,25 +1,49 @@
 # Budget Summary
 
-## Cost Overview
+**Project Type**: 100% DIY (Do-It-Yourself)
 
-| Category | Estimated Cost | Actual Cost | Variance |
-|----------|---------------|-------------|----------|
-| Floor Heating System | TBD | - | - |
-| Tile | TBD | - | - |
-| Underlayment | TBD | - | - |
-| Adhesives & Grout | TBD | - | - |
-| Electrical Components | TBD | - | - |
-| Tools | TBD | - | - |
-| Miscellaneous | TBD | - | - |
-| **Subtotal** | **TBD** | - | - |
-| Contingency (10%) | TBD | - | - |
-| **Total Budget** | **TBD** | - | - |
+## Cost Overview - Materials Only (DIY)
+
+| Category | Estimated Cost | Actual Cost | Prof. Labor Cost* | DIY Savings* |
+|----------|---------------|-------------|-------------------|--------------|
+| Floor Heating System | TBD | - | TBD | - |
+| Tile | TBD | - | TBD | - |
+| Underlayment | TBD | - | TBD | - |
+| Adhesives & Grout | TBD | - | TBD | - |
+| Electrical Components | TBD | - | TBD | - |
+| Tools (One-time) | TBD | - | N/A | - |
+| Tool Rentals | TBD | - | N/A | - |
+| Consumables | TBD | - | TBD | - |
+| Miscellaneous | TBD | - | - | - |
+| **Materials Subtotal** | **TBD** | - | - | - |
+| Contingency (10%) | TBD | - | - | - |
+| **Total DIY Cost** | **TBD** | - | - | - |
+| | | | **Total Prof. Labor*** | **TBD** |
+| | | | **Total DIY Savings*** | **TBD** |
+
+*Professional labor costs are for reference only - NOT included in project total. This shows how much we're saving by doing the work ourselves.
 
 ## Budget Notes
 
-- Contingency buffer set at 10% of subtotal
+- **DIY Project**: All labor will be performed by homeowner
+- **Contingency**: Buffer set at 10% of materials subtotal
+- **Tool Costs**: Track separately as one-time investment (may be useful for future projects)
+- **Labor Costs**: Professional installation quotes included for reference only (to quantify DIY savings)
 - Update actual costs as purchases are made
 - Track variance to identify budget overruns early
+
+## Cost Tracking Guidelines
+
+### Materials vs. Tools vs. Labor
+- **Materials**: Consumable items used in the project (tile, grout, heating system, etc.)
+- **Tools (Purchase)**: One-time purchases that will be kept (tile cutter, trowels, etc.)
+- **Tools (Rental)**: Rented equipment (wet saw, etc.)
+- **Labor**: Professional installation cost estimates (reference only, NOT part of project budget)
+
+### DIY Savings Calculation
+Total DIY Savings = (Materials + Professional Labor) - (Materials + DIY Tools + DIY Time)
+
+Where DIY Time is valued at your opportunity cost (optional to calculate)
 
 ## Payment Schedule
 

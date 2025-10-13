@@ -3,8 +3,9 @@
 ## Project Overview
 This is a bathroom renovation project focused on flooring replacement:
 - **Primary Goal**: Remove existing laminate flooring and install electric heated flooring with tile
+- **Installation Approach**: 100% DIY (Do-It-Yourself) - All work will be performed by the homeowner
 - **Documentation**: All project documentation will be published as a static website using GitHub Pages
-- **Approach**: Research-driven, methodical planning with clear milestones
+- **Approach**: Research-driven, methodical planning with clear milestones and beginner-friendly instructions
 
 ## Project Structure
 
@@ -42,18 +43,36 @@ This is a bathroom renovation project focused on flooring replacement:
 - Compare multiple products/methods when applicable
 - Note local building codes and requirements
 - Include cost estimates where relevant
+- **Focus on DIY-friendly information**: Include beginner tips, common mistakes, skill requirements
+- **Highlight learning resources**: Link to installation videos, tutorials, and manufacturer guides
+- **Safety first**: Always include safety considerations and when to call a professional
+- **Tool requirements**: Note whether tools can be rented vs. purchased
 
 ### Bill of Materials Format
 - Include item name, specifications, quantity, unit cost, total cost, and supplier
 - Group items by category (flooring, heating, tools, consumables)
 - Keep running total and add contingency buffer
+- **Labor Cost Tracking**:
+  - ALWAYS include professional installation labor costs in a SEPARATE column
+  - Labor costs are for reference only (to show DIY savings)
+  - NEVER include labor costs in the project total
+  - Calculate total DIY savings by comparing material-only costs vs. professional installation quotes
+- **Tool Costs**: Separate one-time tool purchases from consumables
+- Note which tools can be rented vs. purchased
 
 ### Step-by-Step Guide Format
 - Break work into clear phases/milestones
-- Include time estimates for each step
+- Include time estimates for each step (realistic for DIY beginner)
 - Note required tools and materials for each phase
-- Include safety considerations
-- Add quality checkpoints
+- Include safety considerations and PPE requirements
+- Add quality checkpoints and "how to verify" instructions
+- **Beginner-Friendly Details**:
+  - Explain "why" for each step, not just "how"
+  - Include common mistakes and how to avoid them
+  - Link to video tutorials where helpful
+  - Note difficulty level for each phase
+  - Suggest break points (good stopping places)
+  - Include troubleshooting tips
 
 ## Project Phases
 
@@ -92,3 +111,33 @@ This is a bathroom renovation project focused on flooring replacement:
 - Document decisions and changes as the project progresses
 - Take photos at each major milestone
 - Keep all receipts and warranty information
+
+## DIY Philosophy & Guidelines
+
+This is a **100% DIY project**. All research, planning, and documentation should support a homeowner doing this work themselves.
+
+### Cost Tracking Principles
+1. **Material Costs**: Track actual costs for all materials purchased
+2. **Tool Costs**: Track separately (one-time investment, may be useful for future projects)
+3. **Labor Costs**: Include professional installation quotes in a separate column for reference
+   - Purpose: To quantify DIY savings
+   - These costs are NOT included in project totals
+   - Helps justify tool purchases and time investment
+
+### Research Focus for DIY
+When researching products, methods, or techniques, always consider:
+- **Skill Level Required**: Can a motivated beginner do this?
+- **Learning Curve**: How much practice/experience needed?
+- **Mistake Recovery**: How forgiving is this material/method if you mess up?
+- **Tool Requirements**: Special tools needed? Can they be rented?
+- **Time Investment**: Realistic time for first-time installer?
+- **Professional Help**: When is it better/required to hire an expert?
+
+### When to Call a Professional
+Even in a DIY project, some tasks may require professional help:
+- **Electrical work**: Many jurisdictions require licensed electrician
+- **Structural issues**: If subfloor has damage or rot
+- **Permit/Inspection**: Some areas require professional sign-off
+- **Complex plumbing**: If toilet flange or pipes need work
+
+Document these decisions and costs separately if they occur.
