@@ -1,9 +1,42 @@
 title: Bathroom Renovation Project
 description: DIY bathroom flooring replacement with electric heated floors
-theme: jekyll-theme-minimal
+theme: just-the-docs
+
+# Just the Docs Configuration
+# Enable search functionality
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Navigation structure
+nav_sort: case_insensitive
+
+# Color scheme (options: light, dark, nil for default)
+color_scheme: nil
+
+# Footer content
+footer_content: "Bathroom Renovation Project - DIY Electric Heated Flooring Installation"
+
+# External links in navigation
+aux_links:
+  "View on GitHub":
+    - "//github.com/159First/bathroom-renovation"
+
+# Enable copy button for code blocks
+enable_copy_code_button: true
 
 # Exclude files from processing
 exclude:
   - CLAUDE.md
   - README.md
   - .claude/
+  - .git/
+  - .gitignore
+  - node_modules/
+  - vendor/

@@ -1,3 +1,9 @@
+---
+title: Specifications
+nav_order: 3
+description: "Technical specifications for materials and systems"
+---
+
 # Project Specifications
 
 This section contains detailed technical specifications for all materials and systems.

@@ -1,3 +1,10 @@
+---
+title: Finish Floor Options
+parent: Research
+nav_order: 1
+description: "Comprehensive analysis of 8 flooring options for bathroom with radiant heat"
+---
+
 # Finish Floor Options Research
 
 ## Executive Summary

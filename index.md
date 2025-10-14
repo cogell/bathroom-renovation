@@ -1,3 +1,10 @@
+---
+title: Home
+nav_order: 1
+description: "DIY bathroom renovation project documenting electric heated floor installation and tile flooring"
+permalink: /
+---
+
 # Bathroom Renovation Project
 
 ## Project Overview

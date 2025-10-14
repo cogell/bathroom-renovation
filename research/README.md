@@ -1,3 +1,10 @@
+---
+title: Research
+nav_order: 2
+has_children: true
+description: "Background research on materials, methods, and best practices"
+---
+
 # Research Documentation
 
 This section contains all background research for the bathroom renovation project.
