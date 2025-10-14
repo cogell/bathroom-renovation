@@ -1,6 +1,10 @@
 title: Bathroom Renovation Project
 description: DIY bathroom flooring replacement with electric heated floors
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+# Plugins required for GitHub Pages
+plugins:
+  - jekyll-remote-theme
 
 # Just the Docs Configuration
 # Enable search functionality
