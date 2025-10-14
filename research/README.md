@@ -31,12 +31,18 @@ This section contains all background research for the bathroom renovation projec
 - [ ] Fire code compliance
 - [ ] Cost estimates
 
-### Tile and Flooring
-- [ ] Tile types suitable for heated floors
-- [ ] Tile sizes and layout patterns
-- [ ] Grout options
-- [ ] Thermal expansion considerations
-- [ ] Waterproofing membranes
+### Finish Floor Options
+- [x] Traditional tile systems (ceramic, porcelain, natural stone)
+- [x] Modern alternatives (microcement, tadelakt, epoxy, polyurethane)
+- [x] Concrete-based systems (self-leveling, polished)
+- [x] Radiant heat compatibility for all options
+- [x] Waterproofing performance comparison
+- [x] DIY feasibility analysis (1-10 scale)
+- [x] Cost analysis (materials + professional installation)
+- [x] Maintenance requirements and lifespan
+- [ ] Final flooring selection (pending decision)
+- [ ] Tile sizes and layout patterns (if tile selected)
+- [ ] Grout options (if tile selected)
 
 ### Building Codes and Permits
 - [ ] Local building code requirements
@@ -79,6 +85,18 @@ This section contains all background research for the bathroom renovation projec
 - Tools, materials, and cost estimates
 - **Key Finding**: 3/4" exterior plywood eliminates subfloor as a decision variable
 
+#### [Finish Floor Options Research](finish-floor/)
+**Status**: Research complete, ready for decision
+- Comprehensive analysis of 8 flooring options for bathroom with radiant heat
+- Traditional tile (ceramic, porcelain, natural stone, glass)
+- Modern alternatives: microcement, synthetic tadelakt, traditional tadelakt
+- Resin-based coatings: epoxy and polyurethane systems
+- Concrete systems: self-leveling, polished, stained
+- Complete comparison matrix (cost, DIY difficulty, waterproofing, thermal performance)
+- Detailed radiant heat compatibility protocols for each option
+- Installation timelines and tool requirements
+- **Key Finding**: Traditional tile (20-50yr lifespan) and microcement (seamless) are top DIY options at 5/10 difficulty
+
 ### In Progress Research
 - [ ] **Basement insulation strategy** (NEXT PRIORITY)
   - Rockwool installation from below joists
@@ -87,9 +105,10 @@ This section contains all background research for the bathroom renovation projec
   - Impact on heating system performance
 
 ### Pending Research
-- [ ] Tile selection and specifications
-- [ ] Grout and sealant options
-- [ ] Waterproofing membrane options
+- [ ] Final flooring selection based on budget and aesthetics
+- [ ] Specific tile/finish specifications (if applicable)
+- [ ] Grout and sealant selection (if tile chosen)
+- [ ] Waterproofing membrane brand selection
 - [ ] Local building codes and permit requirements
 - [ ] Tool requirements and rental vs. purchase decisions
 - [ ] Layout planning for odd-shaped bathroom (6x6 minus 3x3 washer/dryer)
@@ -98,15 +117,16 @@ This section contains all background research for the bathroom renovation projec
 
 ## Research Strategy
 
-**Current Approach**: Research foundational elements (subfloor, insulation) before finalizing heating system choice. This ensures the system decision is based on actual performance and cost, not compatibility constraints.
+**Current Approach**: Research foundational elements (subfloor, insulation, finish floor options) before finalizing specific product selections. This ensures decisions are based on actual performance, cost, and DIY feasibility, not just compatibility constraints.
 
 **Decision Sequence**:
 1. ✅ Understand heating system options and performance factors
 2. ✅ Understand subfloor requirements (build "universal" subfloor)
-3. ⏳ Research basement insulation (major performance impact)
-4. 🔜 Assess actual subfloor condition
-5. 🔜 Finalize heating system choice based on research
-6. 🔜 Select tiles and complete specifications
+3. ✅ Research finish floor options (8 alternatives analyzed)
+4. ⏳ Research basement insulation (major performance impact)
+5. 🔜 Assess actual subfloor condition
+6. 🔜 Finalize heating system choice based on research
+7. 🔜 Select specific finish floor option and specifications
 
 ---
 

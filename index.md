@@ -40,15 +40,22 @@ Step-by-step instructions organized by project phase with milestones and checkpo
 ### Recent Research Completed
 - Electric floor heating systems comparison (no decisions made yet)
 - Subfloor preparation requirements and specifications
-- Evaluating heating system options vs. project constraints
+- Finish floor options research (8 alternatives: tile, microcement, tadelakt, epoxy, polyurethane, concrete systems)
+- Radiant heat compatibility protocols for all flooring types
+- DIY feasibility analysis and cost comparisons
 
 ### Next Steps
 - Basement insulation research (rockwool installation)
 - Subfloor condition assessment (requires removing existing flooring)
+- Final flooring selection (tile vs. microcement vs. alternatives)
 - Final heating system selection after completing research
 
 ## Quick Links
 
+- [Research Overview](research/)
+- [Finish Floor Options Comparison](research/finish-floor/)
+- [Electric Heating Systems](research/electric-floor-heating-comparison.md)
+- [Subfloor Requirements](research/subfloor-preparation-requirements.md)
 - [Project Timeline](guides/timeline.md)
 - [Budget Overview](bom/budget-summary.md)
 - [Safety Guidelines](guides/safety.md)
