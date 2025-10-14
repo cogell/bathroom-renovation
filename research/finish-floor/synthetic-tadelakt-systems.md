@@ -6,6 +6,35 @@ description: "Modern engineered alternatives to traditional tadelakt"
 
 # Synthetic Tadelakt Systems Research
 
+## TL;DR
+Synthetic tadelakt delivers the luxury spa aesthetic of traditional Moroccan plaster but with modern waterproofing, zero monthly maintenance, and moderate DIY difficulty (5-6/10) at $15-25/sq ft materials—best for high-end seamless bathrooms without maintenance burden.
+
+## Summary
+- **Modern performance**: Resin-modified plasters provide inherent waterproofing without monthly soap treatments, handle all modern cleaners (bleach, acids), and resist stains/mold with zero special maintenance
+- **Aesthetic luxury**: Seamless spa-like finish with full color spectrum, various sheen levels (matte to high gloss), and hand-troweled character—far superior appearance to painted or epoxy finishes
+- **DIY accessible**: Moderate difficulty (5-6/10) with longer working time than traditional, mistakes can be sanded/recoated, standard trowels work, 24-72 hour cure vs. 2+ weeks for traditional
+- **Premium pricing**: $15-25/sq ft materials, $40-60/sq ft professional install—more expensive upfront but 15-25 year lifespan with minimal maintenance justifies investment
+- **Radiant heat friendly**: 2-3 day heat-off protocol (simple), flexible resins accommodate thermal expansion, maintains performance across temperature ranges unlike rigid traditional tadelakt
+
+## Table of Contents
+- [Product Categories](#product-categories)
+- [Leading Products](#leading-products)
+- [Installation Process](#installation-process)
+- [Radiant Heat Compatibility](#radiant-heat-compatibility)
+- [Waterproofing Performance](#waterproofing-performance)
+- [Chemical Resistance](#chemical-resistance)
+- [Cost Analysis](#cost-analysis)
+- [Comparison with Traditional Tadelakt](#comparison-with-traditional-tadelakt)
+- [Aesthetic Variations](#aesthetic-variations)
+- [Application Areas](#application-areas)
+- [Environmental Considerations](#environmental-considerations)
+- [Quality Indicators](#quality-indicators)
+- [Installation Tips for DIY](#installation-tips-for-diy)
+- [Maintenance and Care](#maintenance-and-care)
+- [Summary](#summary)
+- [Related Documentation](#related-documentation)
+- [References](#references)
+
 ## Overview
 Modern synthetic tadelakt systems are engineered alternatives that replicate the seamless, luxurious appearance of traditional tadelakt while eliminating its maintenance requirements and chemical sensitivity. These resin-modified plasters and mineral coatings were developed to meet modern construction and maintenance standards.
 
@@ -250,9 +279,47 @@ Synthetic tadelakt systems offer the aesthetic appeal of traditional tadelakt wi
 - DIY installation being considered
 - Long-term durability important
 
-## Product Research Sources
+## Related Documentation
+- [Traditional Tadelakt](tadelakt-traditional.md) - Comparison with authentic Moroccan technique
+- [Microcement Systems](microcement-systems.md) - Alternative seamless cement-based finish
+- [Radiant Heat Compatibility Guide](radiant-heat-compatibility.md) - Heat protocols for all systems
+- [Epoxy & Polyurethane Coatings](epoxy-polyurethane-coatings.md) - Budget alternative seamless finishes
+- [Traditional Tile](tile-traditional.md) - Proven conventional option
+- [Main Finish Floor Comparison](README.md) - Complete overview of all options
+
+## References
+
+### Manufacturer Resources
+- **TERRAZZO GraniTech** - Engineered tadelakt alternative systems
+- **European Waterproof Stucco Manufacturers** - Netherlands, Germany, Italy product lines
+- **Microcement suppliers** - Some marketed as tadelakt alternatives
+- Product technical data sheets and installation guides
+- Manufacturer warranty information
+
+### Industry Publications
+- Professional Decorative Finishes Magazine
+- Concrete Decor - Decorative plaster techniques
+- Luxury Home Building - High-end bathroom finishes
+- European plaster and stucco industry standards
+
+### Installation Resources
+- YouTube: Professional decorative plaster installers
+- European tadelakt and plaster training programs
+- Online forums: synthetic tadelakt experiences
+- Manufacturer training videos and certification courses
+
+### Technical Standards
+- ASTM C926 - Application of Portland Cement-Based Plaster
+- ISO standards for decorative plasters
+- European EN standards for waterproof plasters
+- Building code requirements for wet area finishes
+
+### Product Research Sources
 - Manufacturer technical specifications
 - Industry testing standards (ASTM, ISO)
 - Professional installer feedback
 - User reviews and case studies (2024-2025)
 - Bathroom remodeling contractor interviews
+
+**Research Date**: January 2025
+**Last Updated**: January 2025

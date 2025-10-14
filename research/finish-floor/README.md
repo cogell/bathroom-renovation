@@ -7,6 +7,16 @@ description: "Comprehensive analysis of 8 flooring options for bathroom with rad
 
 # Finish Floor Options Research
 
+## TL;DR
+Bathroom flooring with radiant heat requires balancing waterproofing, heat compatibility, DIY feasibility, and aesthetics—traditional tile remains the gold standard, but modern alternatives like microcement offer compelling seamless finishes.
+
+## Summary
+- **Eight flooring options analyzed**: Traditional tile, tadelakt (traditional & synthetic), microcement, epoxy, polyurethane, self-leveling, and polished concrete for bathroom with radiant heat
+- **Top DIY recommendation**: Microcement balances ease of installation (5/10 difficulty), seamless aesthetics, no heat protocol requirements, and costs $8-20/sq ft
+- **Best value**: Traditional tile offers 20-50 year lifespan, proven performance, excellent radiant heat compatibility, and easiest repairs at $5-15/sq ft
+- **Critical consideration**: Epoxy requires 11+ day heat-off protocol; avoid if quick turnaround needed
+- **Key decision factors**: DIY skill level, radiant heat downtime tolerance, maintenance preferences, budget ($2-25/sq ft), and desired aesthetic (seamless vs. traditional)
+
 ## Executive Summary
 
 This research explores waterproof flooring options for bathroom renovation with electric radiant floor heating. The analysis covers eight major flooring categories including traditional tile and modern alternatives, examining their compatibility with radiant heat, waterproofing capabilities, DIY feasibility, and cost considerations.

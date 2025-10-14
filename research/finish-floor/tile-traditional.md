@@ -6,6 +6,42 @@ description: "Ceramic, porcelain, and natural stone tile options"
 
 # Traditional Tile Systems Research
 
+## TL;DR
+Ceramic and porcelain tile remain the gold standard for bathroom flooring with radiant heat—proven 20-50 year lifespan, complete waterproofing, moderate DIY difficulty (5/10), and $5-15/sq ft makes it the safest bet for resale and longevity.
+
+## Summary
+- **Proven performance**: Centuries of refinement, 20-50 year lifespan, completely waterproof when properly installed, excellent radiant heat compatibility with no special protocols required
+- **DIY accessible**: Moderate difficulty (5/10) with extensive learning resources, mistakes fixable before thinset dries, tools readily available for rent ($50-100/day wet saw), forgiving of substrate imperfections
+- **Best resale value**: Universally accepted by buyers, appeals to broadest market, professional appearance achievable by DIY, traditional choice for bathrooms—safer investment than experimental finishes
+- **Radiant heat excellence**: Superior thermal conductivity (1.0 W/mK), can work with heat on low during install, simple 7-day cure protocol, 85-95% heat transfer efficiency, excellent thermal mass
+- **Maintenance trade-off**: Grout lines require periodic sealing (annual) and cleaning, but individual tiles replaceable unlike seamless systems—grout maintenance vs. complete refinishing trade-off
+
+## Table of Contents
+- [Types of Tile for Bathroom Applications](#types-of-tile-for-bathroom-applications)
+  - [Porcelain Tile](#porcelain-tile)
+  - [Ceramic Tile](#ceramic-tile)
+  - [Natural Stone Tile](#natural-stone-tile)
+  - [Glass Tile](#glass-tile)
+  - [Size Considerations](#size-considerations)
+- [Installation Process](#installation-process)
+  - [Substrate Preparation](#substrate-preparation)
+  - [Installation with Radiant Heat](#installation-with-radiant-heat)
+  - [Installation Steps](#installation-steps)
+- [Waterproofing Systems](#waterproofing-systems)
+- [Cost Analysis](#cost-analysis)
+- [DIY Feasibility](#diy-feasibility)
+- [Grout Options and Selection](#grout-options-and-selection)
+- [Maintenance Requirements](#maintenance-requirements)
+- [Thermal Performance with Radiant Heat](#thermal-performance-with-radiant-heat)
+- [Slip Resistance Ratings](#slip-resistance-ratings)
+- [Design Considerations](#design-considerations)
+- [Comparison with Alternative Flooring](#comparison-with-alternative-flooring)
+- [Pros and Cons Summary](#pros-and-cons-summary)
+- [Recommended Products and Brands](#recommended-products-and-brands)
+- [Conclusion](#conclusion)
+- [Related Documentation](#related-documentation)
+- [References](#references)
+
 ## Overview
 Ceramic and porcelain tile remain the most popular choice for bathroom flooring, particularly with radiant heating systems. This proven technology offers exceptional durability, water resistance, and heat transfer properties, with centuries of refinement in installation techniques.
 
@@ -429,7 +465,57 @@ For DIY installation, tile offers a moderate learning curve with extensive resou
 
 With costs ranging from $5-15 per square foot for materials and the ability to last 20-50 years with proper maintenance, tile offers excellent long-term value. The main trade-off versus alternatives is the presence of grout lines requiring periodic maintenance, but this is offset by the ability to replace individual damaged tiles rather than entire floor sections.
 
+## Related Documentation
+- [Radiant Heat Compatibility Guide](radiant-heat-compatibility.md) - Simple tile installation protocols for radiant heat
+- [Concrete Finish Systems](concrete-finish-systems.md) - Self-leveling substrates for tile
+- [Microcement Systems](microcement-systems.md) - Seamless alternative to tile
+- [Epoxy & Polyurethane Coatings](epoxy-polyurethane-coatings.md) - Budget seamless alternatives
+- [Synthetic Tadelakt Systems](synthetic-tadelakt-systems.md) - Luxury seamless alternative
+- [Main Finish Floor Comparison](README.md) - Complete overview comparing tile to all options
+
+## References
+
+### Tile Manufacturers
+- **Daltile** - Wide product range and technical resources
+- **American Olean** - Budget-friendly residential tile
+- **Marazzi** - Italian design and quality
+- **Porcelanosa** - High-end luxury tile
+- **Mohawk** - Comprehensive tile collections
+- **Crossville** - American-made porcelain
+
+### Installation Product Manufacturers
+- **Laticrete** - Thinset, grout, and waterproofing systems
+- **Mapei** - Complete tile installation systems
+- **Schluter Systems** - KERDI waterproofing and DITRA-HEAT
+- **Custom Building Products** - SimpleMat and installation products
+- **Aqua Mix** - Sealers and maintenance products
+
+### Industry Organizations
+- **Tile Council of North America (TCNA)** - Installation standards handbook
+- **National Tile Contractors Association (NTCA)** - Professional training and resources
+- **Ceramic Tile Distributors Association (CTDA)** - Industry standards
+- **International Masonry Institute** - Training and certification programs
+
+### Industry Publications
+- Fine Homebuilding - Professional tile installation techniques
+- This Old House - DIY tile installation guides
+- Family Handyman - Step-by-step tile tutorials
+- The Journal of Light Construction - Technical installation articles
+
+### Installation Resources
+- TCNA Handbook for Ceramic, Glass, and Stone Tile Installation
+- YouTube: Professional tile setters (Sal DiBlasi, StarrTile, etc.)
+- Tile installation forums and communities
+- Manufacturer installation videos and technical bulletins
+
+### Technical Standards
+- ANSI A108 - Installation of Ceramic Tile
+- ANSI A118 - Specifications for Tile Installation Materials
+- ANSI A137.1 - Specifications for Ceramic Tile
+- ASTM C1028 - Coefficient of Friction testing
+
 ---
 
-*Last Updated: January 2025*
+**Research Date**: January 2025
+**Last Updated**: January 2025
 *Based on current industry standards and manufacturer specifications*

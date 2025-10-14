@@ -6,6 +6,38 @@ description: "Industrial-grade resin coatings for bathrooms"
 
 # Epoxy and Polyurethane Coating Systems Research
 
+## TL;DR
+Industrial-grade epoxy and polyurethane coatings create seamless, waterproof bathroom floors but require an 11+ day radiant heat-off protocol for epoxy—best for budget-conscious DIY with patience ($3-8/sq ft epoxy, $2-6/sq ft polyurethane).
+
+## Summary
+- **Epoxy systems**: 100% waterproof, excellent durability (10-15 years), easiest DIY application (3-4/10 difficulty), but **CRITICAL 11-day heat-off requirement** for radiant heating
+- **Polyurethane systems**: Simplest application (2-3/10 difficulty), fast cure (2-3 days), better UV resistance, but shorter lifespan (5-10 years) and less chemical resistance than epoxy
+- **Combined system**: Epoxy base + polyurethane topcoat offers best performance ($5-14/sq ft DIY), ideal for high-use showers with maximum durability and maintenance ease
+- **Temperature limits**: Epoxy safe to 80-90°F continuous; exceeding causes softening and failure—critical consideration for radiant heat systems
+- **DIY advantage**: Simple roller application, self-leveling properties, minimal tools ($100 investment), but strict mixing ratios and heat protocol timing are non-negotiable
+
+## Table of Contents
+- [Epoxy Coating Systems](#epoxy-coating-systems)
+  - [Types of Epoxy for Bathrooms](#types-of-epoxy-for-bathrooms)
+  - [Epoxy Application Process](#epoxy-application-process)
+  - [Radiant Heat Compatibility](#radiant-heat-compatibility)
+  - [Epoxy Performance Characteristics](#epoxy-performance-characteristics)
+- [Polyurethane Coating Systems](#polyurethane-coating-systems)
+  - [Types of Polyurethane Coatings](#types-of-polyurethane-coatings)
+  - [Polyurethane Application Process](#polyurethane-application-process)
+  - [Polyurethane Performance Characteristics](#polyurethane-performance-characteristics)
+- [DIY Feasibility Comparison](#diy-feasibility-comparison)
+- [Cost Analysis](#cost-analysis)
+- [Safety and Environmental Considerations](#safety-and-environmental-considerations)
+- [Bathroom-Specific Applications](#bathroom-specific-applications)
+- [Maintenance and Longevity](#maintenance-and-longevity)
+- [Common Problems and Solutions](#common-problems-and-solutions)
+- [Comparison: Epoxy vs Polyurethane](#comparison-epoxy-vs-polyurethane)
+- [Best Practices for Success](#best-practices-for-success)
+- [Summary and Recommendations](#summary-and-recommendations)
+- [Related Documentation](#related-documentation)
+- [References](#references)
+
 ## Overview
 Epoxy and polyurethane coatings are resin-based flooring systems that create seamless, durable, and completely waterproof surfaces. Originally developed for industrial applications, these systems have been adapted for residential use, offering exceptional performance in bathroom environments.
 
@@ -449,3 +481,39 @@ Epoxy and polyurethane coatings are resin-based flooring systems that create sea
 - Shower areas with heavy use
 
 Both epoxy and polyurethane systems offer excellent waterproofing and durability for bathroom applications. The choice depends on specific requirements, DIY skill level, and ability to accommodate installation timing, especially with radiant heat systems. The 11-day protocol for epoxy over radiant heat is critical but results in exceptional long-term performance.
+
+## Related Documentation
+- [Radiant Heat Compatibility Guide](radiant-heat-compatibility.md) - Detailed heat protocols for all flooring types
+- [Microcement Systems](microcement-systems.md) - Alternative seamless flooring with no heat protocol
+- [Traditional Tile](tile-traditional.md) - Proven option with simple radiant heat compatibility
+- [Concrete Finish Systems](concrete-finish-systems.md) - Self-leveling substrates and polished finishes
+- [Main Finish Floor Comparison](README.md) - Complete overview of all flooring options
+
+## References
+
+### Manufacturer Resources
+- **Rust-Oleum** - EpoxyShield product line for residential applications
+- **Behr** - Premium epoxy garage and basement floor coatings
+- **ArmorPoxy** - Commercial-grade epoxy systems with technical data
+- **Minwax** - Polyurethane floor finishes and application guides
+- **Varathane** - Water-based polyurethane floor coatings
+
+### Industry Publications
+- The Concrete Network - Epoxy coating installation guides
+- Family Handyman - DIY epoxy floor coating tutorials
+- This Old House - Residential floor coating comparisons
+- Fine Homebuilding - Professional-grade resin flooring techniques
+
+### Installation Resources
+- YouTube: Professional epoxy installers demonstrating techniques
+- Manufacturer installation videos and technical bulletins
+- DIY forums: epoxy floor experiences and troubleshooting
+
+### Technical Standards
+- ASTM D4060 - Abrasion Resistance of Organic Coatings
+- ASTM D2794 - Impact Resistance of Organic Coatings
+- ASTM C884 - Bond Strength of Epoxy-Resin Systems
+- VOC compliance standards by state/region
+
+**Research Date**: January 2025
+**Last Updated**: January 2025

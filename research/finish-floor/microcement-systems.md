@@ -6,6 +6,37 @@ description: "Thin decorative cement overlays"
 
 # Microcement/Microtopping Systems Research
 
+## TL;DR
+Microcement creates seamless, modern bathroom surfaces in 4-7 days with moderate DIY difficulty (5-6/10), no radiant heat protocol required, and costs $8-20/sq ft—best balance of aesthetics, performance, and DIY accessibility for contemporary bathrooms.
+
+## Summary
+- **Application**: Thin polymer-modified cement coating (2-4mm total) applied in multiple coats with trowel, creating seamless waterproof surface when properly sealed
+- **Radiant heat friendly**: Excellent compatibility with no waiting periods, can apply with heat on low, thin profile allows fast heat response and good thermal conductivity
+- **DIY feasibility**: Moderate skill (5-6/10 difficulty)—forgiving material that can be sanded and recoated, but requires trowel technique practice and patience for 4-7 day installation
+- **Cost effective**: $8-20/sq ft materials, $100-200 tools, professional install $16-27/sq ft—competitive with mid-range tile but offers grout-free maintenance
+- **Maintenance**: Low ongoing care with pH-neutral cleaners; reseal every 5-10 years; repairs possible with matching material—far easier than tile grout maintenance
+
+## Table of Contents
+- [System Types and Composition](#system-types-and-composition)
+- [Product Classifications by Application](#product-classifications-by-application)
+- [Installation Process](#installation-process)
+- [Compatibility with Radiant Heat](#compatibility-with-radiant-heat)
+- [Waterproofing Properties](#waterproofing-properties)
+- [DIY Feasibility Analysis](#diy-feasibility-analysis)
+- [Cost Analysis](#cost-analysis)
+- [Design Options and Aesthetics](#design-options-and-aesthetics)
+- [Maintenance Requirements](#maintenance-requirements)
+- [Performance Characteristics](#performance-characteristics)
+- [Advantages Over Traditional Tile](#advantages-over-traditional-tile)
+- [Disadvantages and Limitations](#disadvantages-and-limitations)
+- [Environmental Considerations](#environmental-considerations)
+- [Quality Indicators and Product Selection](#quality-indicators-and-product-selection)
+- [Specific Bathroom Applications](#specific-bathroom-applications)
+- [Installation Tips for Success](#installation-tips-for-success)
+- [Summary and Recommendations](#summary-and-recommendations)
+- [Related Documentation](#related-documentation)
+- [References](#references)
+
 ## Overview
 Microcement (also known as microtopping or micro concrete) is a polymer-modified cement-based coating system that creates seamless, contemporary surfaces. Developed in the late 20th century, it has become a popular alternative to traditional tiles in modern bathroom design.
 
@@ -364,3 +395,40 @@ Microcement represents an excellent middle ground for bathroom flooring - more a
 - **Professional finish**: Two-component systems
 
 The 4-7 day installation timeline and $8-20/sq ft material cost makes microcement a competitive option for bathroom renovations, especially when factoring in its seamless aesthetic and compatibility with radiant heating systems.
+
+## Related Documentation
+- [Radiant Heat Compatibility Guide](radiant-heat-compatibility.md) - Why microcement needs no special heat protocols
+- [Concrete Finish Systems](concrete-finish-systems.md) - Related cement-based flooring options
+- [Synthetic Tadelakt Systems](synthetic-tadelakt-systems.md) - Alternative seamless luxury finish
+- [Epoxy & Polyurethane Coatings](epoxy-polyurethane-coatings.md) - Budget seamless alternatives
+- [Traditional Tile](tile-traditional.md) - Comparison with proven traditional option
+- [Main Finish Floor Comparison](README.md) - Complete overview of all options
+
+## References
+
+### Manufacturer Resources
+- **Ardex** - Microcement and microtopping product lines
+- **Mapei** - Ultratop and decorative overlay systems
+- **Surecrete** - XS-327 Microtopping and application guides
+- **CemeCrete** - South African microcement systems
+- **Ideal Work** - European microcement products and technical specs
+
+### Industry Publications
+- The Concrete Network - Microtopping installation techniques
+- Concrete Decor Magazine - Decorative concrete overlay trends
+- Floor Covering Installer - Professional microcement applications
+
+### Installation Resources
+- YouTube: Professional microcement installers demonstrating trowel techniques
+- Manufacturer training videos and certification programs
+- Online forums: microcement DIY experiences and troubleshooting
+- European installation standards and best practices
+
+### Technical Standards
+- ASTM C881 - Epoxy-Resin-Base Bonding Systems for Concrete
+- ASTM C1583 - Tensile Strength of Concrete Surfaces
+- ISO standards for decorative concrete overlays
+- EN standards for self-leveling compounds (European)
+
+**Research Date**: January 2025
+**Last Updated**: January 2025

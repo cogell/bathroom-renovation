@@ -6,6 +6,36 @@ description: "Heat-up protocols and compatibility for all flooring types"
 
 # Radiant Heat Compatibility Guide for Finish Flooring
 
+## TL;DR
+Flooring radiant heat compatibility ranges from seamless (microcement, self-leveling) to strict 11+ day protocols (epoxy)—choose wisely based on project timeline and operating temperature limits (80-200°F depending on material).
+
+## Summary
+- **Seamless installation**: Microcement, self-leveling concrete, and stained concrete need no special heat protocols and can be installed with system on low heat
+- **Critical protocol**: Epoxy requires 11+ days with heat completely OFF (4 days before + 7 days after), with strict 9°F/day temperature ramping—project timeline killer
+- **Temperature limits vary widely**: Tile handles 200°F+, epoxy limited to 80-90°F continuous, exceeding causes softening/failure—check flooring specs before finalizing system
+- **Best thermal performance**: Polished concrete and self-leveling offer superior thermal mass and conductivity (1.2-1.3 W/mK) for maximum heating efficiency
+- **DIY-friendly options**: Traditional tile (no protocol), microcement (no protocol), and polyurethane (2-day protocol) best for quick projects; avoid epoxy unless 2+ weeks downtime acceptable
+
+## Table of Contents
+- [Electric Radiant Heat System Basics](#electric-radiant-heat-system-basics)
+- [Critical Installation Protocols by Flooring Type](#critical-installation-protocols-by-flooring-type)
+  - [Seamless Installation](#-seamless-installation-can-install-directly-over-active-system)
+  - [Moderate Protocol](#-moderate-protocol-some-timing-requirements)
+  - [Strict Protocol Required](#-strict-protocol-required-11-day-process)
+- [Thermal Performance Comparison](#thermal-performance-comparison)
+- [Maximum Temperature Tolerances](#maximum-temperature-tolerances)
+- [Installation Sequencing Guide](#installation-sequencing-guide)
+- [Thickness Considerations](#thickness-considerations)
+- [Troubleshooting Common Issues](#troubleshooting-common-issues)
+- [Energy Efficiency Considerations](#energy-efficiency-considerations)
+- [Warranty and Code Considerations](#warranty-and-code-considerations)
+- [Cost Impact of Radiant Heat Compatibility](#cost-impact-of-radiant-heat-compatibility)
+- [Decision Matrix for Radiant Heat](#decision-matrix-for-radiant-heat)
+- [Quick Reference Installation Chart](#quick-reference-installation-chart)
+- [Final Recommendations](#final-recommendations)
+- [Related Documentation](#related-documentation)
+- [References](#references)
+
 ## Overview
 Electric radiant floor heating systems require careful consideration when selecting and installing finish flooring. This guide provides comprehensive compatibility information, installation protocols, and performance data for all flooring alternatives with radiant heat systems.
 
@@ -305,3 +335,43 @@ Avoid epoxy systems unless you can accommodate the 11+ day protocol.
 ## Conclusion
 
 Radiant heat compatibility varies significantly among flooring alternatives. While materials like microcement offer seamless installation, others like epoxy require strict protocols that add significant time to projects. Understanding these requirements during planning prevents costly mistakes and ensures optimal performance of both the heating system and finish floor. Always verify specific product compatibility with radiant heat before purchase and installation.
+
+## Related Documentation
+- [Traditional Tile Systems](tile-traditional.md) - Excellent radiant heat compatibility with simple protocols
+- [Microcement Systems](microcement-systems.md) - No special heat protocol required
+- [Epoxy & Polyurethane Coatings](epoxy-polyurethane-coatings.md) - Critical 11-day heat protocol details
+- [Concrete Finish Systems](concrete-finish-systems.md) - Self-leveling and polished options
+- [Synthetic Tadelakt Systems](synthetic-tadelakt-systems.md) - Moderate heat protocol requirements
+- [Traditional Tadelakt](tadelakt-traditional.md) - Extended cure time considerations
+- [Main Finish Floor Comparison](README.md) - Overview with heat compatibility rankings
+
+## References
+
+### Manufacturer Resources
+- **Schluter Systems** - DITRA-HEAT electric floor warming technical guides
+- **Warmup** - Electric radiant heating installation manuals
+- **Nuheat** - Flooring compatibility charts and guidelines
+- **SunTouch** - Installation guides for various floor finishes
+- **ThermoSoft** - Thin electric heating mat specifications
+
+### Industry Publications
+- Radiant Professionals Alliance - Installation best practices
+- Tile Council of North America (TCNA) - Handbook for radiant heat
+- National Tile Contractors Association (NTCA) - Technical bulletins
+- The Concrete Network - Radiant heat with concrete finishes
+- Radiant Floor Company - Compatibility guides
+
+### Technical Standards
+- ANSI A118.4 - Thinset mortars for radiant heat
+- ASTM C627 - Test Method for Evaluating Ceramic Floor Tile Installation Systems
+- NEC Article 424 - Fixed Electric Space-Heating Equipment
+- International Building Code (IBC) - Radiant heating requirements
+
+### Installation Resources
+- YouTube: Professional installers demonstrating heat system installations
+- Manufacturer installation videos specific to each flooring type
+- Radiant heat forums and troubleshooting communities
+- Professional installer case studies and lessons learned
+
+**Research Date**: January 2025
+**Last Updated**: January 2025

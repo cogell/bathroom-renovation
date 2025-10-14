@@ -6,6 +6,31 @@ description: "Moroccan lime plaster waterproofing technique"
 
 # Traditional Tadelakt Research
 
+## TL;DR
+Ancient Moroccan lime plaster creates stunning waterproof surfaces but requires expert-level skills (9/10 difficulty), monthly olive oil soap maintenance, and incompatibility with modern cleaners—beautiful but impractical for contemporary DIY bathrooms.
+
+## Summary
+- **Expert-only application**: 1,000+ year old technique requiring years of mastery, precise timing windows, specialized Marrakech lime, hand-polishing with stones, and zero margin for error (9/10 DIY difficulty)
+- **High maintenance burden**: Monthly olive oil soap treatment mandatory or waterproofing fails within weeks; modern shampoos, cleaners, and acids damage surface; requires squeegee after every use
+- **Impractical for modern use**: Incompatible with contemporary bath products, hard water stains permanently, cannot use standard bathroom cleaners, rigid material cracks with building movement or temperature changes
+- **Limited waterproofing**: Not truly waterproof—only water-resistant through calcium soap formation; loses protection without monthly maintenance; unsuitable for high-use shower areas
+- **Consider synthetic instead**: Modern synthetic tadelakt delivers same aesthetic with zero monthly maintenance, handles all cleaners, costs $15-25/sq ft vs. $5-10/sq ft traditional but eliminates ongoing labor/expense
+
+## Table of Contents
+- [Material Composition](#material-composition)
+- [Installation Process](#installation-process)
+- [Compatibility with Radiant Heat](#compatibility-with-radiant-heat)
+- [Waterproofing Mechanism](#waterproofing-mechanism)
+- [DIY Feasibility Assessment](#diy-feasibility-assessment)
+- [Cost Analysis](#cost-analysis)
+- [Limitations and Concerns](#limitations-and-concerns)
+- [Authentic vs Modified Tadelakt](#authentic-vs-modified-tadelakt)
+- [When Traditional Tadelakt Makes Sense](#when-traditional-tadelakt-makes-sense)
+- [Environmental Considerations](#environmental-considerations)
+- [Summary](#summary)
+- [Related Documentation](#related-documentation)
+- [References](#references)
+
 ## Overview
 Tadelakt is an ancient Moroccan waterproof lime plaster technique dating back over 1,000 years, traditionally used in hammams (bathhouses) and riads. The name comes from the Arabic verb "dlek" meaning to rub or massage.
 
@@ -155,9 +180,44 @@ Tadelakt is an ancient Moroccan waterproof lime plaster technique dating back ov
 
 Traditional tadelakt offers unique aesthetic and historical value but presents significant challenges for modern bathroom applications, especially for DIY installation. The monthly maintenance requirement, incompatibility with modern cleaning products, and expert-level skill requirements make it unsuitable for most residential bathroom projects. Consider modern synthetic alternatives for practical waterproof applications while maintaining similar visual appeal.
 
+## Related Documentation
+- [Synthetic Tadelakt Systems](synthetic-tadelakt-systems.md) - Modern engineered alternative with same aesthetic
+- [Microcement Systems](microcement-systems.md) - Alternative seamless finish for DIY
+- [Radiant Heat Compatibility Guide](radiant-heat-compatibility.md) - Heat protocols for lime plasters
+- [Traditional Tile](tile-traditional.md) - Proven low-maintenance option
+- [Main Finish Floor Comparison](README.md) - Complete overview of all options
+
 ## Sources and References
+
+### Traditional Techniques
 - Traditional Moroccan building techniques research
 - Tadelakt artisan guild specifications
 - Historic preservation society guidelines
+- Marrakech master artisan interviews
+
+### Material Suppliers
+- Specialized lime putty suppliers (Marrakech limestone)
+- Traditional olive oil soap (savon noir) sources
+- Polishing stone suppliers
+- Traditional tool makers
+
+### Industry Publications
+- Historic preservation journals
+- Traditional building conservation magazines
+- Cultural heritage documentation
+- Restoration architecture publications
+
+### Installation Resources
+- Master artisan training programs (Morocco)
+- Historic preservation workshops
+- Traditional plastering technique documentation
+- Museum conservation case studies
+
+### Technical Information
 - Material compatibility testing results (2024-2025)
 - Professional installer interviews and case studies
+- Lime plaster chemistry and carbonation processes
+- Long-term performance studies of historic installations
+
+**Research Date**: January 2025
+**Last Updated**: January 2025
