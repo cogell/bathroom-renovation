@@ -1,3 +1,9 @@
+---
+title: Concrete Finish Systems Research
+parent: Finish Floor Options
+description: "Self-leveling, polished, and stained concrete options"
+---
+
 # Concrete Finish Systems Research
 
 ## TL;DR

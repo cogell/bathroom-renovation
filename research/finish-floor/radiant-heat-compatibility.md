@@ -1,3 +1,9 @@
+---
+title: Radiant Heat Compatibility Guide for Finish Flooring
+parent: Finish Floor Options
+description: "Heat-up protocols and compatibility for all flooring types"
+---
+
 # Radiant Heat Compatibility Guide for Finish Flooring
 
 ## Overview

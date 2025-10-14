@@ -1,3 +1,9 @@
+---
+title: Synthetic Tadelakt Systems Research
+parent: Finish Floor Options
+description: "Modern engineered alternatives to traditional tadelakt"
+---
+
 # Synthetic Tadelakt Systems Research
 
 ## Overview

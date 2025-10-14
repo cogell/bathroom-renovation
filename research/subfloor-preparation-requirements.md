@@ -1,3 +1,10 @@
+---
+title: Subfloor Preparation & Requirements Research
+parent: Research
+nav_order: 3
+description: "Subfloor requirements for tile and electric floor heating installation"
+---
+
 # Subfloor Preparation & Requirements Research
 
 **Research Date**: October 2025

@@ -1,3 +1,9 @@
+---
+title: Traditional Tadelakt Research
+parent: Finish Floor Options
+description: "Moroccan lime plaster waterproofing technique"
+---
+
 # Traditional Tadelakt Research
 
 ## Overview

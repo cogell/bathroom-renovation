@@ -1,3 +1,10 @@
+---
+title: Electric Floor Heating - Research & Brainstorming
+parent: Research
+nav_order: 2
+description: "Evaluation of electric floor heating options for small bathroom"
+---
+
 # Electric Floor Heating - Research & Brainstorming
 
 **Research Date**: October 2025

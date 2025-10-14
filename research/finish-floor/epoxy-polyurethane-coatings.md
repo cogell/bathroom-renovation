@@ -1,3 +1,9 @@
+---
+title: Epoxy and Polyurethane Coating Systems Research
+parent: Finish Floor Options
+description: "Industrial-grade resin coatings for bathrooms"
+---
+
 # Epoxy and Polyurethane Coating Systems Research
 
 ## Overview

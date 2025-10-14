@@ -1,3 +1,9 @@
+---
+title: Project Timeline
+parent: Guides
+description: "Project phases and milestones"
+---
+
 # Project Timeline
 
 ## Overview

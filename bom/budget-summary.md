@@ -1,3 +1,9 @@
+---
+title: Budget Summary
+parent: Bill of Materials
+description: "Cost tracking and budget overview"
+---
+
 # Budget Summary
 
 **Project Type**: 100% DIY (Do-It-Yourself)

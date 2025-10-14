@@ -1,3 +1,9 @@
+---
+title: Traditional Tile Systems Research
+parent: Finish Floor Options
+description: "Ceramic, porcelain, and natural stone tile options"
+---
+
 # Traditional Tile Systems Research
 
 ## Overview

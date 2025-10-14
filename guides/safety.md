@@ -1,3 +1,9 @@
+---
+title: Safety Guidelines
+parent: Guides
+description: "Safety protocols and PPE requirements"
+---
+
 # Safety Guidelines
 
 ## General Safety Principles
