@@ -1,5 +1,39 @@
 # Concrete Finish Systems Research
 
+## TL;DR
+Concrete can be self-leveled, polished, overlaid, or stained to create durable flooring that works exceptionally well with radiant heat, but requires meticulous preparation and proper sealing for bathroom use.
+
+## Summary
+- **Self-leveling concrete** ($2-5/sq ft) creates smooth substrates over radiant heat but demands one-shot precision with 20-minute working windows (DIY difficulty: 6-7/10)
+- **Polished concrete** ($10-15/sq ft) offers ultimate durability but requires expensive equipment ($200-300/day rental) and multiple grinding steps (DIY difficulty: 7-8/10)
+- **Microtopping overlays** ($8-12/sq ft) provide thin decorative finishes at 1/16"-1/8" thickness with good heat compatibility (DIY difficulty: 5-6/10)
+- **All concrete systems** require multiple sealer coats (penetrating + topical) for bathroom waterproofing and work excellently with radiant heating due to superior thermal mass
+- **DIY-friendly option**: Stained concrete is most forgiving; polished concrete better left to professionals due to equipment costs and skill requirements
+
+## Table of Contents
+- [Self-Leveling Concrete/Underlayments](#self-leveling-concreteunderlayments)
+  - [Types of Self-Leveling Products](#types-of-self-leveling-products)
+  - [Application Process](#application-process)
+  - [Use Over Radiant Heating](#use-over-radiant-heating)
+  - [As a Finished Floor](#as-a-finished-floor)
+  - [DIY Considerations](#diy-considerations)
+  - [Cost Analysis](#cost-analysis)
+- [Polished Concrete Systems](#polished-concrete-systems)
+  - [Polishing Process](#polishing-process)
+  - [Equipment Requirements](#equipment-requirements)
+  - [Finish Options](#finish-options)
+- [Microtopping/Overlay Systems](#microtoppingoverlay-systems)
+- [Stained Concrete](#stained-concrete)
+- [Comparison of Concrete Systems](#comparison-of-concrete-systems)
+- [Waterproofing Concrete Finishes](#waterproofing-concrete-finishes)
+- [Maintenance Requirements](#maintenance-requirements)
+- [Common Issues and Solutions](#common-issues-and-solutions)
+- [Thermal Performance with Radiant Heat](#thermal-performance-with-radiant-heat)
+- [Environmental Considerations](#environmental-considerations)
+- [DIY Decision Matrix](#diy-decision-matrix)
+- [Summary](#summary)
+- [References](#references)
+
 ## Overview
 Concrete finish systems encompass various methods of treating concrete surfaces to create durable, aesthetic flooring. These range from self-leveling overlays that serve as substrates to polished concrete that serves as the final wearing surface. These systems are particularly compatible with radiant heating due to concrete's excellent thermal mass properties.
 
@@ -397,3 +431,34 @@ Concrete finish systems offer versatile options from purely functional substrate
 3. **Overlays**: Good middle ground for aesthetics
 4. **All require sealing**: Critical for bathroom use
 5. **Thermal mass**: Excellent for radiant heat efficiency
+
+## Related Documentation
+- [Tile Systems Research](tile-systems.md) - Primary finish floor option for this project
+- [Luxury Vinyl Plank Research](lvp-systems.md) - Alternative finish floor option
+- [Electric Floor Heating Systems](../heating/electric-systems.md) - Radiant heat compatibility considerations
+
+## References
+
+### Manufacturer Resources
+- **Ardex** - Self-leveling concrete products and technical data sheets
+- **Mapei** - Concrete overlay systems and installation guides
+- **Custom Building Products** - LevelQuik and SimpleMat product lines
+- **Schönox** - High-performance self-leveling underlayments
+
+### Industry Publications
+- Concrete Construction Magazine - Polishing techniques and equipment guides
+- The Concrete Network - Staining, sealing, and finishing tutorials
+- International Concrete Repair Institute (ICRI) - Industry standards and best practices
+
+### Installation Resources
+- Family Handyman - DIY self-leveling concrete guides
+- This Old House - Concrete floor finishing tutorials
+- YouTube: Various professional concrete polishers demonstrating techniques
+
+### Technical Standards
+- ACI (American Concrete Institute) - Concrete finishing standards
+- ASTM International - Material specifications for concrete products
+- NTCA (National Tile Contractors Association) - Substrate preparation guidelines
+
+**Research Date**: January 2025
+**Last Updated**: January 2025
