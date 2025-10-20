@@ -1,3 +1,10 @@
+---
+title: KBRS Shower Pan Systems - Detailed Guide
+parent: Shower Pan Research
+grand_parent: Research
+nav_order: 1
+---
+
 # KBRS Shower Pan Systems - Detailed Guide
 
 **TL;DR**: KBRS makes factory-waterproofed, pre-sloped shower pans that install in 2-4 hours with minimal DIY experience required.

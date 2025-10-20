@@ -1,3 +1,9 @@
+---
+title: Wood Trim in Bathrooms - Research & Installation Guide
+parent: Research
+nav_order: 9
+---
+
 # Wood Trim in Bathrooms - Research & Installation Guide
 
 **TL;DR**: Wood baseboard with a 1/8" gap and silicone seal is the standard approach for bathrooms; raw/matte finishes need penetrating oil or hard wax protection.

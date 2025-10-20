@@ -1,3 +1,9 @@
+---
+title: Thin-Set Mortar Research for Schluter Systems
+parent: Research
+nav_order: 8
+---
+
 # Thin-Set Mortar Research for Schluter Systems
 
 **TL;DR**: Schluter ALL-SET is their universal thin-set that works everywhere in their system, eliminating confusion about modified vs. unmodified requirements.

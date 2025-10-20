@@ -1,3 +1,9 @@
+---
+title: DITRA to Wall Waterproofing Transition
+parent: Research
+nav_order: 6
+---
+
 # DITRA to Wall Waterproofing Transition
 
 **TL;DR**: DITRA must be sealed at wall transitions using KERDI-BAND or KERDI membrane to create a continuous waterproof envelope.

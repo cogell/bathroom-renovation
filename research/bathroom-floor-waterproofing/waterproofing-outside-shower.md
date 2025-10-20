@@ -1,3 +1,9 @@
+---
+title: Bathroom Floor Waterproofing - Outside Shower Area
+parent: Research
+nav_order: 5
+---
+
 # Bathroom Floor Waterproofing - Outside Shower Area
 
 **TL;DR**: Tile and grout are not waterproof; you need a waterproofing membrane under the tile in wet areas to protect your subfloor and structure.

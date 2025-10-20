@@ -1,3 +1,10 @@
+---
+title: Schluter Kerdi Shower System - Detailed Guide
+parent: Shower Pan Research
+grand_parent: Research
+nav_order: 2
+---
+
 # Schluter Kerdi Shower System - Detailed Guide
 
 **TL;DR**: Schluter Kerdi is a complete waterproofing system with foam shower trays, widely available at big box stores, with extensive DIY support.

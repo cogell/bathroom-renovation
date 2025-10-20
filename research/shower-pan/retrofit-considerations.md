@@ -1,3 +1,10 @@
+---
+title: Shower Pan Retrofit Considerations
+parent: Shower Pan Research
+grand_parent: Research
+nav_order: 3
+---
+
 # Shower Pan Retrofit Considerations
 
 **TL;DR**: Replacing a shower pan while keeping existing wall tiles intact is extremely challenging and often impossible to do properly.

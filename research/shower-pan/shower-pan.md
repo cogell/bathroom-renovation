@@ -1,3 +1,10 @@
+---
+title: Shower Pan Research
+parent: Research
+nav_order: 7
+has_children: true
+---
+
 # Shower Pan Research
 
 **TL;DR**: Research documentation for DIY shower pan replacement after unexpected removal of existing pan.
