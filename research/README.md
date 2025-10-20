@@ -38,6 +38,40 @@ This section contains all background research for the bathroom renovation projec
 - [ ] Fire code compliance
 - [ ] Cost estimates
 
+### Shower Pan Replacement (NEW)
+- [x] Research types of shower pans available
+- [x] KBRS vs. Schluter comparison and documentation
+- [x] Retrofit installation considerations
+- [x] Wall-to-pan connection details
+- [x] Waterproofing integration methods
+- [x] Cost analysis and DIY feasibility
+- [ ] Actual measurements and drain assessment
+- [ ] Final product selection
+
+### Bathroom Floor Waterproofing (NEW)
+- [x] Waterproofing membrane options outside shower
+- [x] DITRA-to-wall transition details
+- [x] "Belt & suspenders" approaches documented
+- [x] Splash zone definitions and requirements
+- [x] Integration with shower pan waterproofing
+- [x] Product recommendations and cost analysis
+
+### Installation Materials (NEW)
+- [x] Thin-set mortar research (modified vs. unmodified)
+- [x] Schluter ALL-SET universal solution
+- [x] Application requirements by product
+- [x] Cost analysis for thin-set options
+- [ ] Grout selection and specifications
+- [ ] Sealant and caulk requirements
+
+### Wood Trim and Baseboards (NEW)
+- [x] Installation methods with gap and silicone
+- [x] Raw/matte wood finish options
+- [x] Best wood species for bathrooms
+- [x] Waterproofing integration details
+- [x] Maintenance requirements
+- [x] Alternative trim options (PVC, tile)
+
 ### Finish Floor Options
 - [x] Traditional tile systems (ceramic, porcelain, natural stone)
 - [x] Modern alternatives (microcement, tadelakt, epoxy, polyurethane)
@@ -104,6 +138,45 @@ This section contains all background research for the bathroom renovation projec
 - Installation timelines and tool requirements
 - **Key Finding**: Traditional tile (20-50yr lifespan) and microcement (seamless) are top DIY options at 5/10 difficulty
 
+#### [Shower Pan Research](shower-pan/)
+**Status**: Research complete, ready for measurement and selection
+- Comprehensive comparison of modern tile-ready foam systems
+- Detailed guides for KBRS and Schluter systems with installation instructions
+- Retrofit installation considerations for existing walls
+- Critical wall-to-pan connection details (flange UP vs. membrane DOWN)
+- Complete cost and DIY feasibility analysis
+- **Key Finding**: For retrofits with existing walls, both systems require 5-6" of wall removal for proper waterproofing integration
+
+#### [Bathroom Floor Waterproofing](bathroom-floor-waterproofing/)
+**Status**: Research complete, integrated with DITRA-HEAT selection
+- Complete guide to waterproofing outside shower area
+- Splash zone definitions (0-48" from shower is critical)
+- Comparison of liquid, sheet, and uncoupling membranes
+- "Belt & suspenders" protection levels documented
+- DITRA-to-wall transition specifications with KERDI-BAND
+- Integration details with shower pan systems
+- **Key Finding**: Since DITRA-HEAT includes waterproofing, it solves multiple issues at once (heating + waterproofing + uncoupling)
+
+#### [Thin-Set Mortar Research](thinset.md)
+**Status**: Research complete, ready for product selection
+- Critical modified vs. unmodified rules for Schluter systems
+- Schluter ALL-SET as universal solution (eliminates confusion)
+- Application requirements for each Schluter product
+- Approved alternative thin-sets listed
+- Complete cost analysis and shopping lists
+- Installation tips and common mistakes
+- **Key Finding**: Wrong thin-set type is #1 cause of tile failure; ALL-SET worth extra $30-50 for peace of mind
+
+#### [Wood Trim in Bathrooms](wood-trim.md)
+**Status**: Research complete, ready for material selection
+- Standard 1/8" gap with silicone seal method documented
+- Raw/matte finish options (hard wax oil recommended)
+- Best wood species for bathrooms (white oak ideal)
+- Integration with DITRA/KERDI-BAND waterproofing
+- Complete installation process with maintenance schedule
+- PVC and tile baseboard alternatives
+- **Key Finding**: Wood baseboard with proper gap and silicone is industry standard; white oak with Rubio Monocoat ideal for spa/natural look
+
 ### In Progress Research
 - [ ] **Basement insulation strategy** (NEXT PRIORITY)
   - Rockwool installation from below joists
@@ -115,10 +188,11 @@ This section contains all background research for the bathroom renovation projec
 - [ ] Final flooring selection based on budget and aesthetics
 - [ ] Specific tile/finish specifications (if applicable)
 - [ ] Grout and sealant selection (if tile chosen)
-- [ ] Waterproofing membrane brand selection
 - [ ] Local building codes and permit requirements
 - [ ] Tool requirements and rental vs. purchase decisions
 - [ ] Layout planning for odd-shaped bathroom (6x6 minus 3x3 washer/dryer)
+- [ ] Shower pan measurements and drain assessment
+- [ ] Final heating system selection (after insulation research)
 
 ---
 
@@ -130,10 +204,15 @@ This section contains all background research for the bathroom renovation projec
 1. ✅ Understand heating system options and performance factors
 2. ✅ Understand subfloor requirements (build "universal" subfloor)
 3. ✅ Research finish floor options (8 alternatives analyzed)
-4. ⏳ Research basement insulation (major performance impact)
-5. 🔜 Assess actual subfloor condition
-6. 🔜 Finalize heating system choice based on research
-7. 🔜 Select specific finish floor option and specifications
+4. ✅ Research shower pan replacement options (KBRS vs. Schluter)
+5. ✅ Research waterproofing requirements outside shower
+6. ✅ Research thin-set requirements for Schluter systems
+7. ✅ Research wood trim/baseboard options for bathrooms
+8. ⏳ Research basement insulation (major performance impact)
+9. 🔜 Assess actual subfloor and shower pan condition
+10. 🔜 Finalize heating system choice based on research
+11. 🔜 Select specific finish floor option and specifications
+12. 🔜 Select shower pan system based on measurements
 
 ---
 

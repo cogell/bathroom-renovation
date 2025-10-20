@@ -33,10 +33,13 @@ This is a bathroom renovation project focused on flooring replacement:
 
 ### When Creating Documentation
 1. Use clear, descriptive filenames (e.g., `electric-floor-heating-research.md`)
-2. Include a table of contents for longer documents
-3. Cross-reference related documents using relative links
-4. Include sources and references for research
-5. Use consistent formatting and structure
+2. **Include summaries at the top of every document**:
+   - **TL;DR**: A 3-second summary (one sentence)
+   - **Summary**: A 30-second summary as concise bullet points (3-5 key points)
+3. Almost always provide a table of contents
+4. Cross-reference related documents using relative links
+5. Include sources and references for research
+6. Use consistent formatting and structure
 
 ### Research Guidelines
 - Document all findings with sources and dates
