@@ -34,3 +34,5 @@ Temporary Items
 *.bak
 personal-notes.md
 receipts/
+
+.claude/settings.local.json
