@@ -11,9 +11,6 @@ This repository documents the complete process of removing laminate flooring and
 ```
 bathroom-renovation/
 ├── research/           # Research on materials, methods, and codes
-├── specifications/     # Technical specs for all components
-├── bom/               # Bill of Materials with pricing
-├── guides/            # Step-by-step installation guides
 ├── assets/            # Images, diagrams, and supporting files
 │   ├── images/
 │   └── diagrams/
@@ -157,17 +154,17 @@ Based on extensive research, the project is converging on a **Schluter-based sys
 ## Key Features
 
 - Comprehensive research documentation
-- Detailed bill of materials with cost tracking
-- Step-by-step installation guides with milestones
-- Technical specifications for all components
-- Safety guidelines and code compliance notes
+- Design direction based on industry best practices
+- Open questions and site-specific considerations
+- Focus on DIY-friendly Schluter-based system
+- Code compliance and waterproofing research
 
 ## Getting Started
 
-1. Review the [research documentation](research/) to understand the project scope
-2. Check the [specifications](specifications/) for technical details
-3. Review the [bill of materials](bom/) for required items
-4. Follow the [installation guides](guides/) during execution
+1. Review the [research documentation](research/) to understand the project scope and design direction
+2. Read through the "Current Design Direction" section above for product selections
+3. Review "Open Questions" to understand site-specific decisions that need to be made
+4. Use this research as a foundation for final specifications and planning
 
 ## Contributing
 

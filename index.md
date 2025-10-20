@@ -29,16 +29,7 @@ This project documents a complete DIY bathroom renovation in an 1870 house, focu
 ## Documentation Sections
 
 ### [Research](research/)
-Background research on materials, methods, and best practices for electric floor heating and tile installation.
-
-### [Specifications](specifications/)
-Detailed technical specifications for all materials and equipment used in the project.
-
-### [Bill of Materials](bom/)
-Complete inventory of all materials, tools, and supplies needed with pricing and supplier information.
-
-### [Installation Guides](guides/)
-Step-by-step instructions organized by project phase with milestones and checkpoints.
+Background research on materials, methods, and best practices for electric floor heating and tile installation. This section contains comprehensive findings on heating systems, waterproofing, finish floor options, and installation requirements.
 
 ## Project Status
 
@@ -63,9 +54,8 @@ Step-by-step instructions organized by project phase with milestones and checkpo
 - [Finish Floor Options Comparison](research/finish-floor/)
 - [Electric Heating Systems](research/electric-floor-heating-comparison.md)
 - [Subfloor Requirements](research/subfloor-preparation-requirements.md)
-- [Project Timeline](guides/timeline.md)
-- [Budget Overview](bom/budget-summary.md)
-- [Safety Guidelines](guides/safety.md)
+- [Shower Pan & Waterproofing](research/shower-pan-waterproofing.md)
+- [Schluter Materials Research](research/schluter-materials-comprehensive.md)
 
 ---
 
