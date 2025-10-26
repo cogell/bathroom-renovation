@@ -96,6 +96,13 @@ This section contains all background research for the bathroom renovation projec
 - [ ] Adhesives and setting materials
 - [ ] Safety equipment
 
+### PEX Tubing & Plumbing Rough-In (NEW)
+- [x] Compare PEX-A vs. PEX-B manufacturing and performance characteristics
+- [x] Document joining methods (expansion vs. crimp/clamp/press) with flow trade-offs
+- [x] Identify tooling requirements and budget impacts
+- [x] Summarize code acceptance and listing considerations
+- [ ] Final tubing selection and routing strategy
+
 ### Installation Methods
 - [ ] Heating system installation best practices
 - [ ] Tile installation techniques
@@ -176,6 +183,13 @@ This section contains all background research for the bathroom renovation projec
 - Complete installation process with maintenance schedule
 - PVC and tile baseboard alternatives
 - **Key Finding**: Wood baseboard with proper gap and silicone is industry standard; white oak with Rubio Monocoat ideal for spa/natural look
+
+#### [PEX Tubing Options](pex.md)
+**Status**: Reference ready
+- Side-by-side comparison of PEX-A and PEX-B covering manufacturing, flexibility, flow, and freeze resilience
+- Joining method overview (ASTM F1960 expansion vs. F1807/F2159 crimp/clamp/press) with tooling and cost implications
+- Selection guidance tailored to the bathroom renovation, including when to favor expansion vs. crimp systems
+- Code and inspection notes (material designation codes, pressure/temperature listings, accepted standards)
 
 ### In Progress Research
 - [ ] **Basement insulation strategy** (NEXT PRIORITY)

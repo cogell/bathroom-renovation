@@ -31,6 +31,9 @@ This project documents a complete DIY bathroom renovation in an 1870 house, focu
 ### [Research](research/)
 Background research on materials, methods, and best practices for electric floor heating and tile installation. This section contains comprehensive findings on heating systems, waterproofing, finish floor options, and installation requirements.
 
+### [Bill of Materials](bill-of-materials.md)
+Working materials list with estimated quantities, unit costs, and notes for plumbing, heating, and finish scope. Tracks optional tool purchases and TBD pricing as planning progresses.
+
 ## Project Status
 
 **Current Phase**: Planning & Research - Exploring Options
