@@ -50,9 +50,11 @@ Background research on materials, methods, and best practices for electric floor
 
 ## Quick Links
 
+- [Bill of Materials](bill-of-materials.md)
 - [Research Overview](research/)
 - [Finish Floor Options Comparison](research/finish-floor/)
 - [Electric Heating Systems](research/electric-floor-heating-comparison.md)
+- [PEX Tubing Options](research/pex.md)
 - [Subfloor Requirements](research/subfloor-preparation-requirements.md)
 - [Shower Pan & Waterproofing](research/shower-pan-waterproofing.md)
 - [Schluter Materials Research](research/schluter-materials-comprehensive.md)
